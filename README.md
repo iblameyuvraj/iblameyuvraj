@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Soni</h1>
-- 🔭 I’m currently working on [Zentha](https://zentha.in)
+- 🔭 I’m currently working on [peppeble](https://peppeble.xyz)
 
 - 🌱 I’m currently learning **ML**
 
