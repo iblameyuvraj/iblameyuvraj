@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yuvraj.site](https://yuvraj.site)
 
-- 📫 How to reach me **yuvrajjsoni17@gmail.com**
+- 📫 How to reach me **hi@yuvraj.site**
 
 - 📄 Know about my experiences [https://files.catbox.moe/ajphid.pdf](https://files.catbox.moe/ajphid.pdf)
 
