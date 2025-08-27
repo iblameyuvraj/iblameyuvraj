@@ -28,27 +28,6 @@
 
 ---
 
-## 🎯 **Current Focus**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=iblameyuvraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&hide=issues,contribs" alt="GitHub Stats" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=iblameyuvraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&hide=stars,commits,prs,issues,contribs&include_all_commits=true" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iblameyuvraj&theme=radical&hide_border=true" alt="Profile Details" />
-</div>
-
----
-
 ## 🛠️ **Tech Stack**
 
 <div align="center">
