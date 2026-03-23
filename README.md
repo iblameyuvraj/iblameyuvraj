@@ -22,7 +22,7 @@
 I'm **Yuvraj Soni** — a full-stack developer and founder based in India. I build fast, clean, and purposeful products.
 
 - 🏗️ Founder & CEO at **[Zentha.in](https://zentha.in)** — building next-gen digital solutions
-- 🧪 Exploring **[Peppeble.xyz](https://peppeble.xyz)** — CTO ( i was )
+- 🧪 EX CTO at **[Peppeble.xyz](https://peppeble.xyz)** 
 - 💻 Stack: `React` · `Node.js` · `TypeScript` · `Firebase` · `Express`
 - 🎨 Designer at heart — Figma, Photoshop, and pixel-perfect UIs
 - ⚡ Fun fact: I go completely insane when I'm deep in code
