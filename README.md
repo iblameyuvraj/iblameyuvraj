@@ -1,158 +1,100 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Yuvraj+Soni;Founder+of+Zentha.in;Full+Stack+Developer;ML+Enthusiast;Building+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iblameyuvraj&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="trophy" />
-</div>
+```
+██╗   ██╗██╗   ██╗██╗   ██╗██████╗  █████╗      ██╗
+╚██╗ ██╔╝██║   ██║██║   ██║██╔══██╗██╔══██╗     ██║
+ ╚████╔╝ ██║   ██║██║   ██║██████╔╝███████║     ██║
+  ╚██╔╝  ██║   ██║╚██╗ ██╔╝██╔══██╗██╔══██║██   ██║
+   ██║   ╚██████╔╝ ╚████╔╝ ██║  ██║██║  ██║╚█████╔╝
+   ╚═╝    ╚═════╝   ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iblameyuvraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Founder+%40+Zentha.in;Building+things+that+matter.)](https://git.io/typing-svg)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iblameyuvraj&theme=radical&hide_border=true&background=0D1117&border=6366F1" alt="GitHub Streak" />
-</div>
+<img src="https://komarev.com/ghpvc/?username=iblameyuvraj&style=flat-square&color=6366F1&label=profile+views" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblameyuvraj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
 
-## 🚀 **About Me**
+## 👋 About Me
+
+I'm **Yuvraj Soni** — a full-stack developer and founder based in India. I build fast, clean, and purposeful products.
+
+- 🏗️ Founder & CEO at **[Zentha.in](https://zentha.in)** — building next-gen digital solutions
+- 🧪 Exploring **[Peppeble.xyz](https://peppeble.xyz)** — CTO ( i was )
+- 💻 Stack: `React` · `Node.js` · `TypeScript` · `Firebase` · `Express`
+- 🎨 Designer at heart — Figma, Photoshop, and pixel-perfect UIs
+- ⚡ Fun fact: I go completely insane when I'm deep in code
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
+### Backend & Infrastructure
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Design & Creative
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iblameyuvraj&theme=radical&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="GitHub Activity Graph" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=iblameyuvraj&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iblameyuvraj&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iblameyuvraj&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iblameyuvraj&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true" />
 </div>
 
 ---
 
-## 🛠️ **Tech Stack**
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <h3>🎨 Frontend Development</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</div>
-
-<div align="center">
-  <h3>⚙️ Backend & Tools</h3>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</div>
-
-<div align="center">
-  <h3>🎨 Design & Creative</h3>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://github-profile-trophy.vercel.app/?username=iblameyuvraj&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=6" />
 </div>
 
 ---
 
-## 📊 **GitHub Analytics**
+## 🔗 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=iblameyuvraj&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Wakatime Stats" />
-</div>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-yuvraj.site-6366F1?style=for-the-badge&logo=safari&logoColor=white)](https://yuvraj.site)
+[![Email](https://img.shields.io/badge/Email-hi@yuvraj.site-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@yuvraj.site)
+[![Twitter](https://img.shields.io/badge/Twitter-@iblameyuvrajj-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/iblameyuvrajj)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj_Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvraj-soni-0b7a4630a)
+[![Instagram](https://img.shields.io/badge/Instagram-@iblameyuvrajj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/iblameyuvrajj)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://files.catbox.moe/gs1nmf.pdf)
 
-## 🔗 **Connect With Me**
-
-<div align="center">
-  <a href="https://yuvraj.site" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:hi@yuvraj.site">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/iblameyuvrajj" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/yuvraj-soni-0b7a4630a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/iblameyuvrajj" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</div>
-
----
-
-## 📄 **Resume & Experience**
-
-<div align="center">
-  <a href="https://files.catbox.moe/ajphid.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
-  </a>
-</div>
-
----
-
-## 🎯 **Current Projects**
-
-<div align="center">
-  <h3>🔭 Currently Working On</h3>
-  <a href="https://zentha.in" target="_blank">
-    <img src="https://img.shields.io/badge/Zentha.in-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Zentha.in" />
-  </a>
-  <p><em>Founder & CEO - Building innovative solutions for the future</em></p>
-  
-  <a href="https://peppeble.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Peppeble-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Peppeble" />
-  </a>
-  <p><em>Building the future of decentralized applications</em></p>
-</div>
-
----
-
-## 🌟 **Fun Facts**
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=iblameyuvraj&style=flat-square&color=6366F1" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <h3>⚡ Fun Fact</h3>
-  <p><strong>I go insane when I code! 🤯</strong></p>
-  <p><em>Passionate about creating innovative solutions that make a difference</em></p>
-</div>
-
----
-
-## 🚀 **Let's Build Something Amazing Together!**
-
-<div align="center">
-  <h3>🎯 Ready to Collaborate?</h3>
-  <p>Feel free to reach out if you want to collaborate on interesting projects or just want to say hello! 👋</p>
-  
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=iblameyuvraj&repo=iblameyuvraj&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/github-stats?username=iblameyuvraj&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/contributions?username=iblameyuvraj&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="GitHub Contributions" />
-</div>
-
----
-
-<div align="center">
-  <h3>🌟 Thanks for visiting my profile!</h3>
-  <p><em>Keep coding, keep learning, keep growing! 💻✨</em></p>
+  <em>Keep building. Keep shipping. 🚀</em>
 </div>
